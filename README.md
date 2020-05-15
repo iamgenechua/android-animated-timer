@@ -2,7 +2,7 @@
 Animating a sprite with Android's countdown timer
 
 ## DEMO
-![optimise](https://user-images.githubusercontent.com/54027136/82071242-677d0300-9708-11ea-8948-602b38df7fbb.gif)
+![optimise](https://user-images.githubusercontent.com/54027136/82071990-71533600-9709-11ea-8fad-570e1ea747c4.gif)
 
 ## DETAILS
 <h4> Disabling the seekbar when timer is activated </h4>
